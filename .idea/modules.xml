@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstGitProject.iml" filepath="$PROJECT_DIR$/FirstGitProject.iml" />
+      <module fileurl="file://C:\Users\Public\FirstGitProject2\FirstGitProject.iml" filepath="C:\Users\Public\FirstGitProject2\FirstGitProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstGitProject2.iml" filepath="$PROJECT_DIR$/FirstGitProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Public\FirstGitProject2\app\app.iml" filepath="C:\Users\Public\FirstGitProject2\app\app.iml" />
     </modules>
   </component>
 </project>

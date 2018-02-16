@@ -10,13 +10,13 @@
         android:id="@+id/tv1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Freaking Did It!"
+        android:text="@string/didit"
         android:gravity="center"
         android:padding="16dp"
         />
 
     <TextView
-        android:text="YES WE DID IT!!"
+        android:text="@string/wedid"
         android:id="@+id/tv2"
         android:layout_below="@+id/tv1"
         android:layout_width="wrap_content"
@@ -28,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button"
-        android:text="WOOT!"
+        android:text="@string/woot"
         android:layout_below="@+id/tv2"
         android:padding="16dp"
         android:gravity="center"/>

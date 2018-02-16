@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">FirstGitProject</string>
+    <string name="didit">We Freaking Did It</string>
+    <string name="wedid">YES WE DID IT!!</string>
+    <string name="woot">WOOT!</string>
 </resources>
